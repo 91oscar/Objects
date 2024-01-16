@@ -27,3 +27,4 @@ console.log(account.amount);
 account.withdraw(300);
 
 console.log(account.amount);
+//350
